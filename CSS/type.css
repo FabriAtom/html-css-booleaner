@@ -15,7 +15,46 @@
 }
 
 .colore-testo{
-   color: blue; 
+   color:blue;  
 }
 
+main h1{
+    font-size:45px;
+    margin-top: 25px;
+    margin-bottom: 0px;
+}
+
+.sopra{
+    margin-top: 0px; 
+
+}
+#grigio{
+    color: gray;
+}
+.evidenziato{
+    background-color: yellow;
+}
+
+#ciao{
+    padding-bottom: 15px;
+}
+
+table td,
+table th{
+    padding: 12;
+    text-align: left;
+}
+
+table thead{
+    background-color:rgb(32, 169, 229);
+    color: white;
+}
+
+.celeste{
+    background-color: rgb(177, 229, 242);
+}
+
+table td{
+    width: 20%;
+}
 
