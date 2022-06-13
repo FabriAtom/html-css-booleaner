@@ -1,12 +1,13 @@
 
-.riquadro{
+#riquadro{
     width: 1050px;
 }
 
 .sfondo-pattern{
     background-image: url(/img/pattern.png);
-    background-color: blue;
-    
+    background-color: rgb(78, 160, 255);
+    height: 120px;
+       
 }
 
 .sfondo-pattern img{
@@ -19,24 +20,28 @@
 }
 
 main h1{
-    font-size:45px;
+    font-size:35px;
     margin-top: 25px;
     margin-bottom: 0px;
+    font-style:bold;
 }
 
-.sopra{
+.margin{
     margin-top: 0px; 
 
 }
-#grigio{
+#grigio, h3{
     color: gray;
 }
 .evidenziato{
     background-color: yellow;
 }
 
-#ciao{
-    padding-bottom: 15px;
+#logo{
+    margin-top: 25px;
+    margin-left: 5px;
+    padding: 5px;
+
 }
 
 table td,
@@ -58,3 +63,18 @@ table td{
     width: 20%;
 }
 
+#foto-text{
+    background-image: url(/img/monitor.jpg);
+    width: 300px;
+    height: 200px; 
+    color: white;
+    font-size: 35px;
+}
+
+#foto-text1{
+    background-image: url(/img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    color: white; 
+    font-size: 35px;
+} 
