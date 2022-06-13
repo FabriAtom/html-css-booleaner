@@ -1,0 +1,21 @@
+
+.riquadro{
+    width: 1050px;
+}
+
+.sfondo-pattern{
+    background-image: url(/img/pattern.png);
+    background-color: blue;
+    
+}
+
+.sfondo-pattern img{
+    width:200px;
+    height: 100px; 
+}
+
+.colore-testo{
+   color: blue; 
+}
+
+
